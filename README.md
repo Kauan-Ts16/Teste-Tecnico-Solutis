@@ -87,7 +87,7 @@ Sequência de execução do projeto:
 9. Aguarde a instalação das dependências do projeto.
 10. Após a conclusão das instalações, o projeto será executado.
 
-VOCÊ PODE TESTAR A APLICAÇÃO ACESSANDO A URL DO ULTÍMO TÓPICO
+VOCÊ PODE TESTAR A APLICAÇÃO ACESSANDO A URL DO ÚLTIMO TÓPICO
 
 ```
 
